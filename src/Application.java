@@ -1,6 +1,6 @@
 public class Application {
     public static void main(String[] args) {
-        MyList<String> list = new MyArrayList<>();
+        MyList<String> list = new MyLinkedList<>();
         fillList(list);
         list.addFirst("London");
         printList(list);
