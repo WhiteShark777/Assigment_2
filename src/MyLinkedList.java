@@ -232,5 +232,8 @@ public class MyLinkedList<E> implements MyList<E> {
             return current;
         }
     }
+    public boolean isEmpty() {
+        return size == 0;
+    }
 
 }

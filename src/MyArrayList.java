@@ -174,5 +174,8 @@ public class MyArrayList<T> implements MyList<T> {
         System.arraycopy(arr, 0, newElements, 0, length);
         arr = newElements;
     }
+    public boolean isEmpty() {
+        return length == 0;
+    }
 
 }

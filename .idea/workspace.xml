@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1814950a-45d2-4fa0-aa52-09a1365c6b97" name="Changes" comment="MyArrayList" />
+    <list default="true" id="1814950a-45d2-4fa0-aa52-09a1365c6b97" name="Changes" comment="MyLinkedList">
+      <change afterPath="$PROJECT_DIR$/src/MyMinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +30,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -57,6 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1713701294943</updated>
       <workItem from="1713701295965" duration="436000" />
+      <workItem from="1713912308824" duration="778000" />
+      <workItem from="1713993654533" duration="2565000" />
     </task>
     <task id="LOCAL-00001" summary="MyArrayList">
       <option name="closed" value="true" />
@@ -82,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713724515766</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="MyLinkedList">
+      <option name="closed" value="true" />
+      <created>1713912484053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713912484053</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +132,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123" />
     <MESSAGE value="MyArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="MyArrayList" />
+    <MESSAGE value="MyLinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyLinkedList" />
   </component>
 </project>
